@@ -1,0 +1,6 @@
+{
+  "name": "Lmar Vet ProFarm",
+  "description": "تطبيق إدارة مزارع الدواجن اللاحم في الأنظمة المغلقة، مع تشخيص ذكي للأمراض وتحليلات فنية متقدمة وجدول تحصينات بإشراف د. ضيف الله الحسني.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
